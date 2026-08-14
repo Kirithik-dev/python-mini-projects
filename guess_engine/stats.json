@@ -1,1 +1,7 @@
-{}
+{
+  "games_played": 2,
+  "player_wins": 1,
+  "player_best_attempts": 7,
+  "computer_wins": 1,
+  "computer_best_attempts": 5
+}
