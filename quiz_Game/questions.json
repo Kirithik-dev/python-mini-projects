@@ -9,49 +9,57 @@
         "Hyper Transfer Markup Language",
         "Home Tool Markup Language"
       ],
-      "answer": "Hyper Text Markup Language"
+      "answer": "Hyper Text Markup Language",
+      "difficulty": "easy"
     },
     {
       "id": 2,
       "question": "Which data type is used to store True or False values in Python?",
       "options": ["int", "bool", "str", "float"],
-      "answer": "bool"
+      "answer": "bool",
+      "difficulty": "easy"
     },
     {
       "id": 3,
       "question": "Which keyword is used to define a function in Python?",
       "options": ["func", "def", "function", "lambda"],
-      "answer": "def"
+      "answer": "def",
+      "difficulty": "easy"
     },
     {
       "id": 4,
       "question": "What is the time complexity of binary search?",
       "options": ["O(n)", "O(n log n)", "O(log n)", "O(1)"],
-      "answer": "O(log n)"
+      "answer": "O(log n)",
+      "difficulty": "medium"
     },
     {
       "id": 5,
       "question": "Which of these is not a Python built-in data type?",
       "options": ["list", "dictionary", "array", "tuple"],
-      "answer": "array"
+      "answer": "array",
+      "difficulty": "medium"
     },
     {
       "id": 6,
       "question": "Who developed the Python programming language?",
       "options": ["James Gosling", "Guido van Rossum", "Dennis Ritchie", "Bjarne Stroustrup"],
-      "answer": "Guido van Rossum"
+      "answer": "Guido van Rossum",
+      "difficulty": "easy"
     },
     {
       "id": 7,
       "question": "What is the output of 2 ** 3 in Python?",
       "options": ["6", "8", "9", "5"],
-      "answer": "8"
+      "answer": "8",
+      "difficulty": "easy"
     },
     {
       "id": 8,
       "question": "Which module is used to work with dates in Python?",
       "options": ["time", "datetime", "calendar", "os"],
-      "answer": "datetime"
+      "answer": "datetime",
+      "difficulty": "medium"
     },
     {
       "id": 9,
@@ -62,13 +70,55 @@
         "Standard Query Language",
         "Sequential Query Language"
       ],
-      "answer": "Structured Query Language"
+      "answer": "Structured Query Language",
+      "difficulty": "easy"
     },
     {
       "id": 10,
       "question": "Which of the following is used to handle exceptions in Python?",
       "options": ["try-except", "if-else", "for-while", "switch-case"],
-      "answer": "try-except"
+      "answer": "try-except",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "What is the output of bool('False') in Python?",
+      "options": ["True", "False", "Error", "None"],
+      "answer": "True",
+      "difficulty": "hard"
+    },
+    {
+      "id": 12,
+      "question": "Which sorting algorithm has the best average time complexity?",
+      "options": ["Bubble Sort", "Quick Sort", "Selection Sort", "Insertion Sort"],
+      "answer": "Quick Sort",
+      "difficulty": "hard"
+    },
+    {
+      "id": 13,
+      "question": "What does the 'GIL' stand for in Python?",
+      "options": [
+        "Global Interpreter Lock",
+        "General Input Lock",
+        "Global Instance Loader",
+        "Generic Interface Layer"
+      ],
+      "answer": "Global Interpreter Lock",
+      "difficulty": "hard"
+    },
+    {
+      "id": 14,
+      "question": "In Python, what is the output of [1,2,3] + [4,5,6]?",
+      "options": ["[5,7,9]", "[1,2,3,4,5,6]", "Error", "[1,2,3,[4,5,6]]"],
+      "answer": "[1,2,3,4,5,6]",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "What is the default recursion limit in Python?",
+      "options": ["100", "1000", "10000", "500"],
+      "answer": "1000",
+      "difficulty": "hard"
     }
   ]
 }
