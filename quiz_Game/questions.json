@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does 'HTML' stand for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Text Machine Language",
+        "Hyper Transfer Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "Which data type is used to store True or False values in Python?",
+      "options": ["int", "bool", "str", "float"],
+      "answer": "bool"
+    },
+    {
+      "id": 3,
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "def", "function", "lambda"],
+      "answer": "def"
+    },
+    {
+      "id": 4,
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(n log n)", "O(log n)", "O(1)"],
+      "answer": "O(log n)"
+    },
+    {
+      "id": 5,
+      "question": "Which of these is not a Python built-in data type?",
+      "options": ["list", "dictionary", "array", "tuple"],
+      "answer": "array"
+    },
+    {
+      "id": 6,
+      "question": "Who developed the Python programming language?",
+      "options": ["James Gosling", "Guido van Rossum", "Dennis Ritchie", "Bjarne Stroustrup"],
+      "answer": "Guido van Rossum"
+    },
+    {
+      "id": 7,
+      "question": "What is the output of 2 ** 3 in Python?",
+      "options": ["6", "8", "9", "5"],
+      "answer": "8"
+    },
+    {
+      "id": 8,
+      "question": "Which module is used to work with dates in Python?",
+      "options": ["time", "datetime", "calendar", "os"],
+      "answer": "datetime"
+    },
+    {
+      "id": 9,
+      "question": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Simple Query Language",
+        "Standard Query Language",
+        "Sequential Query Language"
+      ],
+      "answer": "Structured Query Language"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is used to handle exceptions in Python?",
+      "options": ["try-except", "if-else", "for-while", "switch-case"],
+      "answer": "try-except"
+    }
+  ]
+}
